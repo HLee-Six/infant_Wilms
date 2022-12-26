@@ -4,6 +4,8 @@ Code and data accompanying the article 'Distinct embryonic phylogenies and drive
 Code is in the 'code' file.
 Data are in the 'data' file.
 
+Please see the methods section of the publication for further particulars.
+
 Please contact Henry Lee-Six at hl11@sanger.ac.uk if you have any questions. 
 
 
